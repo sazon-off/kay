@@ -1,0 +1,162 @@
+[
+  {
+    "currency": "ARS",
+    "file": "config-ars.js"
+  },
+  {
+    "currency": "AUD",
+    "file": "config-aud.js"
+  },
+  {
+    "currency": "AZN",
+    "file": "config-azn.js"
+  },
+  {
+    "currency": "BDT",
+    "file": "config-bdt.js"
+  },
+  {
+    "currency": "BOB",
+    "file": "config-bob.js"
+  },
+  {
+    "currency": "BRL",
+    "file": "config-brl.js"
+  },
+  {
+    "currency": "CAD",
+    "file": "config-cad.js"
+  },
+  {
+    "currency": "CHF",
+    "file": "config-chf.js"
+  },
+  {
+    "currency": "CLP",
+    "file": "config-clp.js"
+  },
+  {
+    "currency": "COP",
+    "file": "config-cop.js"
+  },
+  {
+    "currency": "CZK",
+    "file": "config-czk.js"
+  },
+  {
+    "currency": "DKK",
+    "file": "config-dkk.js"
+  },
+  {
+    "currency": "EGP",
+    "file": "config-egp.js"
+  },
+  {
+    "currency": "EUR",
+    "file": "config-eur.js"
+  },
+  {
+    "currency": "GBP",
+    "file": "config-gbp.js"
+  },
+  {
+    "currency": "GHS",
+    "file": "config-ghs.js"
+  },
+  {
+    "currency": "HUF",
+    "file": "config-huf.js"
+  },
+  {
+    "currency": "KES",
+    "file": "config-kes.js"
+  },
+  {
+    "currency": "KGS",
+    "file": "config-kgs.js"
+  },
+  {
+    "currency": "KRW",
+    "file": "config-krw.js"
+  },
+  {
+    "currency": "KZT",
+    "file": "config-kzt.js"
+  },
+  {
+    "currency": "MXN",
+    "file": "config-mxn.js"
+  },
+  {
+    "currency": "MYR",
+    "file": "config-myr.js"
+  },
+  {
+    "currency": "MZN",
+    "file": "config-mzn.js"
+  },
+  {
+    "currency": "NGN",
+    "file": "config-ngn.js"
+  },
+  {
+    "currency": "NOK",
+    "file": "config-nok.js"
+  },
+  {
+    "currency": "NZD",
+    "file": "config-nzd.js"
+  },
+  {
+    "currency": "PEN",
+    "file": "config-pen.js"
+  },
+  {
+    "currency": "PLN",
+    "file": "config-pln.js"
+  },
+  {
+    "currency": "RON",
+    "file": "config-ron.js"
+  },
+  {
+    "currency": "RUB",
+    "file": "config-rub.js"
+  },
+  {
+    "currency": "SEK",
+    "file": "config-sek.js"
+  },
+  {
+    "currency": "TJS",
+    "file": "config-tjs.js"
+  },
+  {
+    "currency": "TRY",
+    "file": "config-try.js"
+  },
+  {
+    "currency": "TZS",
+    "file": "config-tzs.js"
+  },
+  {
+    "currency": "USD",
+    "file": "config-usd.js"
+  },
+  {
+    "currency": "UZS",
+    "file": "config-uzs.js"
+  },
+  {
+    "currency": "XAF",
+    "file": "config-xaf.js"
+  },
+  {
+    "currency": "XOF",
+    "file": "config-xof.js"
+  },
+  {
+    "currency": "ZAR",
+    "file": "config-zar.js"
+  }
+]
